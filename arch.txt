@@ -1,0 +1,21 @@
+                   [0m/[36m[0m\\
+                  [0m/[36moo[0m\\
+                 [0m/[36moooo[0m\\
+                [0m/[36moooooo[0m\\
+               [0m/[36m+oooooo+[0m\\
+              [0m/[36m:-:++oooo+[0m\\
+             [0m/[36m++++/+++++++[0m\\
+            [0m/[36m++++++++++++++[0m\\
+           [0m/[36m+++ooooooooooooo[0m\\
+          [0m/[36mooosssso++osssssso[0m\\
+         [0m/[36mossssso-````/ossssss[0m\\
+        [0m/[36msssssso.      :sssssss[0m\\
+       [0m/[36msssssss/        osssso++[0m\\
+      [0m/[36mssssssss/        +ssssooo/[0m\\
+     [0m/[36mssssso+/:-        -:/+osssso[0m\\
+    [0m/[36mso+:-`                 `--/+os[0m\\
+   [0m/[36m:'                           `-/[0m\\
+  [0m/[36m'     [0mWelcome to Arch Linux.[36m     `[0m\\
+
+[0m=========================================
+
